@@ -4,7 +4,7 @@ using MyCompanyAPI.Context;
 using MyCompanyAPI.DTOs;
 using MyCompanyAPI.Models;
 using MyCompanyAPI.Repositories.IRepository;
-using System.Web.Http.Cors;
+
 
 namespace MyCompanyAPI.Controllers
 {
