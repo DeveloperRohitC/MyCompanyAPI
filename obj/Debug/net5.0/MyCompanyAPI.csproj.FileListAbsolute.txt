@@ -10,10 +10,6 @@ C:\RohitDevelopment\Learning\DotNet\MyCompanyAPI\bin\Debug\net5.0\MyCompanyAPI.p
 C:\RohitDevelopment\Learning\DotNet\MyCompanyAPI\bin\Debug\net5.0\AutoMapper.dll
 C:\RohitDevelopment\Learning\DotNet\MyCompanyAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\RohitDevelopment\Learning\DotNet\MyCompanyAPI\bin\Debug\net5.0\Humanizer.dll
-C:\RohitDevelopment\Learning\DotNet\MyCompanyAPI\bin\Debug\net5.0\System.Web.Cors.dll
-C:\RohitDevelopment\Learning\DotNet\MyCompanyAPI\bin\Debug\net5.0\System.Net.Http.Formatting.dll
-C:\RohitDevelopment\Learning\DotNet\MyCompanyAPI\bin\Debug\net5.0\System.Web.Http.dll
-C:\RohitDevelopment\Learning\DotNet\MyCompanyAPI\bin\Debug\net5.0\System.Web.Http.Cors.dll
 C:\RohitDevelopment\Learning\DotNet\MyCompanyAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\RohitDevelopment\Learning\DotNet\MyCompanyAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
 C:\RohitDevelopment\Learning\DotNet\MyCompanyAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
@@ -30,8 +26,6 @@ C:\RohitDevelopment\Learning\DotNet\MyCompanyAPI\bin\Debug\net5.0\Microsoft.Iden
 C:\RohitDevelopment\Learning\DotNet\MyCompanyAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\RohitDevelopment\Learning\DotNet\MyCompanyAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 C:\RohitDevelopment\Learning\DotNet\MyCompanyAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\RohitDevelopment\Learning\DotNet\MyCompanyAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\RohitDevelopment\Learning\DotNet\MyCompanyAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
 C:\RohitDevelopment\Learning\DotNet\MyCompanyAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\RohitDevelopment\Learning\DotNet\MyCompanyAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\RohitDevelopment\Learning\DotNet\MyCompanyAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -66,4 +60,3 @@ C:\RohitDevelopment\Learning\DotNet\MyCompanyAPI\obj\Debug\net5.0\MyCompanyAPI.d
 C:\RohitDevelopment\Learning\DotNet\MyCompanyAPI\obj\Debug\net5.0\ref\MyCompanyAPI.dll
 C:\RohitDevelopment\Learning\DotNet\MyCompanyAPI\obj\Debug\net5.0\MyCompanyAPI.pdb
 C:\RohitDevelopment\Learning\DotNet\MyCompanyAPI\obj\Debug\net5.0\MyCompanyAPI.genruntimeconfig.cache
-C:\RohitDevelopment\Learning\DotNet\MyCompanyAPI\obj\Debug\net5.0\MyCompanyAPI.csprojAssemblyReference.cache
